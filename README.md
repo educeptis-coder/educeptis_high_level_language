@@ -1,7 +1,7 @@
 # Educeptis High Level Language
 
 ## Author
-Your Full Name
+Wisdom Isaac Oku
 
 ## GitHub Username
 educeptis-coder
