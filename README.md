@@ -4,7 +4,7 @@
 Your Full Name
 
 ## GitHub Username
-your_github_username
+educeptis-coder
 
 ## Description
 This is my first professional Python project setup.
