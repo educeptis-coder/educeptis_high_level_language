@@ -1,0 +1,5 @@
+def print_last_digit(number):
+    """Print and return the last digit of a number."""
+    last = abs(number) % 10
+    print(last, end='')
+    return last
