@@ -1,1 +1,1 @@
-print("Welcome to Educeptis High Level Language")
+print("Welcome to Educeptis High Level Language Project")
